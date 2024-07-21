@@ -1,0 +1,13 @@
+html {
+    background-color: skyblue;
+}
+
+
+p, li, h1 {
+    color: red;
+}
+
+h1 {
+    color: teal;
+    text-shadow: slategrey;
+}
